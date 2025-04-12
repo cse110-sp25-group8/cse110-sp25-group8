@@ -17,3 +17,5 @@ Here is a link to my personal [Github Page](https://arlenecse.github.io/arlene-g
 ###  Kiara Singh
 Hi, I'm a second year computer science student from Hong Kong. A fun fact about me is I lived on a ship when I was younger! [Here is a link](https://kiarasinghh.github.io/CSE110-Lab1/) to my personal GitHub page :)
 
+### Minahil Yasar
+Hi, I'm a senior CS student in ERC. A fun fact about me is I can hold my breath for over 2 minutes! [Here is link to my Github page](https://minahilyasar.github.io/cse110/) 
