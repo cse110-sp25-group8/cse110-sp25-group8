@@ -21,4 +21,4 @@ Hi, I'm a second year computer science student from Hong Kong. A fun fact about 
 Hi, I'm a senior CS student in ERC. A fun fact about me is I can hold my breath for over 2 minutes! [Here is link to my Github page](https://minahilyasar.github.io/cse110/) 
 
 ### Ashley Vo
-Hi! 👋 I'm a third year transfer student in Seventh. A fun fact about about me is that I started growing gray hairs when I was in middle school. [Here's a link to my GitHub page.](https://avo-ucsd.github.io/avo-page/) 😎
+Hi! 👋 I'm a third year transfer student in Seventh. A fun fact about about me is that I started growing gray hairs when I was in middle school. [Here's a link to my GitHub page.](https://github.com/avo-ucsd) 😎
