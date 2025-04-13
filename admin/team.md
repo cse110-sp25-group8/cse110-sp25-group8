@@ -1,21 +1,23 @@
 # Team Documentation
 
 
-### Team Name: Group ATE (8) 
+## 🎱 Team Name: Group ATE (8) 
 
-### Values: 
+### 🌟 Values:
+df
 
-### Branding:
+### 🎨 Branding:
 
 Here is out mascot/logo: 
+<img src="./branding/team-mascot.png" alt="mascot image" width="500"/>
 
-![mascot image](./branding/team-mascot.png)
+---
 
-
-## Team Members!
+## 👥 Meet our Team Members!
 
 ### Phyo Thant aka Patrick
 Hello, I am a junior transfer student. A fun fact about me is that I have a 115-day streak in Duolingo :) [Here is the link to my personal GitHub page!](https://phyoth.github.io/CSE-110-lab1/)
+
 
 ### Arlene Garcia
 Hi, I am a second-year CS student in Warren 🤟🏽 A fun fact about me is that I enjoy rollerskating 🛼
@@ -35,3 +37,19 @@ Hi! I'm a senior Math-CS student in Seventh. A fun fact about me is that I like 
 
 ### Ryan Awal
 Hi! I'm a third year CS major at Sixth. A fun fact about me is that I have traveled to over 40 countries. [Here is a link to my Github Page](https://ryanawal12.github.io/Lab1CSE110/)
+
+---
+
+## 🕓 Meeting Info & Logistics
+- **Weekly Meetings:** Wednesdays @ 4:00pm
+- **Initial Meeting Locations:**
+    - Sixth College RWAC 5th floor terrace 
+    - CSE courtyard 
+
+For each meeting we will have:
+- One **discussion lead**
+- One **note taker**
+
+---
+## 💼 Team Charter
+- 
