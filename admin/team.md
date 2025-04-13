@@ -41,6 +41,9 @@ Hi! I'm a third year CS major at Sixth. A fun fact about me is that I have trave
 ### Samson Gebrekidan  
 Hi! I'm a senior Computer Engineering student at UCSD. A fun fact about me is that I love football ⚽ and I can name every World Cup winner by heart. [Here’s a link to my GitHub page](https://github.com/Samat4E/Samson-Gk-User-Page-) 😄
 
+### Shashwat Dudeja
+Hi! I'm a third year Math-CS student from Seventh college. A fun fact about me is that I love chess and I can play it blindfolded(using chess notation). [Here's a link to my GitHub page](https://github.com/shash31/CSE110Lab1)
+
 ---
 
 ## 🕓 Meeting Info & Logistics
