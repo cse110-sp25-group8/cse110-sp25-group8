@@ -39,7 +39,7 @@ Hi! I'm a senior Math-CS student in Seventh. A fun fact about me is that I like 
 Hi! I'm a third year CS major at Sixth. A fun fact about me is that I have traveled to over 40 countries. [Here is a link to my Github Page](https://ryanawal12.github.io/Lab1CSE110/)
 
 ### Samson Gebrekidan  
-Hi! I'm a senior Computer Engineering student at UCSD. A fun fact about me is that I love football ⚽ and I can name every World Cup winner by heart. [Here’s a link to my GitHub page](https://github.com/Samat4E/Samson-Gk-User-Page-) 😄
+Hi! I'm a senior Computer Engineering student at UCSD. A fun fact about me is that I love football ⚽ and I can name every World Cup winner by heart. [Here’s a link to my GitHub page](https://samat4e.github.io/) 😄
 
 ### Shashwat Dudeja
 Hi! I'm a third year Math-CS student from Seventh college. A fun fact about me is that I love chess and I can play it blindfolded(using chess notation). [Here's a link to my GitHub page](https://github.com/shash31/CSE110Lab1)
