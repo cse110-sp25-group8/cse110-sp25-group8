@@ -32,3 +32,6 @@ Hi! 👋 I'm a third year transfer student in Seventh. A fun fact about about me
 
 ### Chanbin Na
 Hi! I'm a senior Math-CS student in Seventh. A fun fact about me is that I like producing music and making beats 🎹 [Here's a link to my GitHub page.](https://chanbinna.github.io/Github-User-Page/)
+
+### Ryan Awal
+Hi! I'm a third year CS major at Sixth. A fun fact about me is that I have traveled to over 40 countries. [Here is a link to my Github Page](https://ryanawal12.github.io/Lab1CSE110/)
