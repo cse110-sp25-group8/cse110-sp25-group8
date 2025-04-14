@@ -48,6 +48,10 @@ Hi! I'm a senior Computer Engineering student at UCSD. A fun fact about me is th
 ### Shashwat Dudeja
 Hi! I'm a third year Math-CS student from Seventh college. A fun fact about me is that I love chess and I can play it blindfolded(using chess notation). [Here's a link to my GitHub page](https://github.com/shash31/CSE110Lab1)
 
+### Dorjé Pradhan
+Hi there! I am a junior who transfered here this past fall for CSE and I am in Revelle College. A fun fact about me is that I am a guitar palyer in a band called The Toads! 🎸
+[Here is a link to my personal GitHub page](https://doorjay.github.io/Pages-Project/)
+
 ---
 
 ## 🕓 Meeting Info & Logistics
