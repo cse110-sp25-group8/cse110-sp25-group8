@@ -1,0 +1,79 @@
+# Meeting Minutes
+## Meeting Information
+- **Meeting Date/Time:** April 14, 2025 @ 1:00 PM
+- **Meeting Purpose:** Brainstorm steps and approach for the warm-up exercise
+- **Meeting Location:** Online via Zoom
+- **Meeting Lead:** Chanbin
+- **Note Taker:** Ashley
+
+## Attendance
+- [X] Arlene Garcia
+- [X] Ashley Vo
+- [X] Chanbin Na
+- [ ] Dorje Pradhan
+- [ ] Kiara Singh
+- [X] Minahil Yasar
+- [ ] Phyo Thant
+- [ ] Ryan Awal
+- [X] Samson Gebrekidan
+- [ ] Shashwat Dudeja
+- [X] Vy Dang
+
+## Agenda
+| Discussion Item |
+| ---- |
+| [Assignment Breakup](#assignment-breakup) |
+| [Roadmap Ideas](#roadmap-ideas) |
+
+### Assignment Breakup 
+- Split parts 1, 2, 3 into teams of three, four, and four.
+  - Those on the same team should probably meet up together.
+  - Split teams based on function: card, deck, and game.
+
+#### Team Assignments
+- Gauge team member comfortableness and what area(s) (HTML, CSS, JS) they want to work on. This will be via a Google Form.
+- It would be a good idea that teammates within each team are able to meet with each other to talk about their assigned task(s).
+- Set deadlines for each team's tasks.
+
+### Roadmap Ideas
+- Break HTML, CSS, and JS into smaller, manageable tasks to people.
+
+#### Research
+- Give CSS and JavaScript a brief look if you've never seen it before.
+  - ChatGPT could be a good source of practice.
+
+#### Step 1: Cards and Card Deck
+General overview:
+1. Build card components (3 people)
+   - Add animations
+2. Have a stack data structure for all 52 cards (4 people)
+   - Click on the card deck to draw a card
+
+##### Card Breakdown
+- Cards numbered 0-9, King, Queen, etc (no need to worry about images/symbols- literal text is okay for a start)
+- Red/black cards (start off with literal texts of "RED" and "BLACK" to distinguish cards)
+- Card suites
+
+##### Card Deck Breakdown
+- Reference: https://www.youtube.com/watch?v=iEPK5fppX8w
+
+#### Step 2 and Further
+- Focus on step 1 first before we plan it. (4 people?)
+
+### Plans for SWOT Analysis
+- Each team should plan to make a document with information about what they've been struggling with, need to learn, what has/hasn't been working, what could be improved, etc.
+
+## Action Items
+### Overview
+| Done? | Item | Responsible | Due Date |
+| ----  | ---- | ----        | ----     |
+| - | Do research on CSS & JS | Everyone | ASAP. |
+| - | [Fill out survey on HTML/CSS/JS comfort levels](https://forms.gle/mZa8nvFo9GqdUBz28). This is also in Slack.  | Everyone | ASAP. We plan on making up teams *before* class tomorrow (4/15). |
+| NO | Warmup Exercise - Team and Technology DeRisk | Everyone | 04/20/2025 |
+
+## Questions, Concerns, Comments
+N/A
+
+## Other Notes & Information
+- We have a Slack workspace just for Team Ate. Invites were sent out a few days ago, but see #08-logistics in the CSE110 workspace if you haven't joined it already.
+- A template for meeting minutes will be added to the minute_meetings folder. To prospective notetakers, feel free to use it or your own template.
