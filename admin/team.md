@@ -4,7 +4,10 @@
 ## 🎱 Team Name: Group ATE (8) 
 
 ### 🌟 Values:
-df
+- Respect - We value each team member's ideas, backgrounds, and contributions and treat each other with kindness and consideration.
+- Communication - We believe in clear, honest, and timely communication to keep everyone on the same page.
+- Accountability - We take ownership of our work and support each other in meeting our responsibilities.
+- Growth Mindset - We embrace challenges as opportunities to learn and are open to feedback.
 
 ### 🎨 Branding:
 
@@ -58,4 +61,14 @@ For each meeting we will have:
 
 ---
 ## 💼 Team Charter
-- 
+### Absences
+If you can't make a meeting, please update the team in Slack ahead of time.
+
+### Assignment Duties
+- We will try to divide up the workload as evenly as possible, depending on the situation
+- If you're falling behind, communicate with the team early
+- Don't hesitate to reach out to each other to check in or offere help
+  
+### Sprints
+- We'll decide whether to run weekly or bi-weekly sprints as we go
+- During each srpint, we'll do regular check-ins to share progress and next steps. 
