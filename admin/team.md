@@ -11,7 +11,8 @@
 
 ### 🎨 Branding:
 
-Here is out mascot/logo: 
+Here is out mascot/logo:
+
 <img src="./branding/team-mascot.png" alt="mascot image" width="500"/>
 
 ---
