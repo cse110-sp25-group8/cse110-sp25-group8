@@ -55,6 +55,7 @@ Hi there! I am a junior who transfered here this past fall for CSE and I am in R
 ### Vy Kiet Dang
 Hello, the name is Kiet Dang, a first year transfer and I'm in Warren College. One truth and a lie: I speak 4 languages and I love love CS. Anyway, nice to meet everyone, looking forward to work with Group Ate this quarter. It will be rough, but I believe in teamwork.
 [My Lovely, Dedicated Github Page.](https://kdang002.github.io/cse110_lab1/#passionate-in-technology-implementation-and-dreaming-to-become-a-software-engineering-in-automotive-field-to-develop-and-enchance-a-better-application-for-simulated-gears-in-ev-and-maybe-quantum-computing-with-ms)
+
 ---
 
 ## 🕓 Meeting Info & Logistics
