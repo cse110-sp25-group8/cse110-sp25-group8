@@ -1,10 +1,10 @@
 # Brainstorming Ideas 1
 
-# Location: Zoom 
-# Date: 23rd April
-# Time: 4-5pm 
+## Location: Zoom 
+## Date: 23rd April
+## Time: 4-5pm 
 
-# Attendance
+## Attendance
 Kiara
 Ashley
 Vy
@@ -29,4 +29,10 @@ Ryan
    a. Recipes on a card
    b. Incorporating meal planners so you can drag cards onto a calendar
    c. Shuffle cards and get a random recipe to cook if unsure on what to cook
-   d. User inputs ingredients they have and the app gives possible recipe ideas 
+   d. User inputs ingredients they have and the app gives possible recipe ideas
+
+
+Steps to Take:
+1) Split into 2 groups to reserach more on Leetcode Flashbacks and Cookbook (current competitions, ideas for uniqeness, user personas)
+2) Choose 1 idea by end of class on Thursday
+3) Start working on pitch.
