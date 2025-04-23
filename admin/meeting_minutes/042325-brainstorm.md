@@ -5,15 +5,15 @@
 ## Time: 4-5pm 
 
 ## Attendance
-Kiara
-Ashley
-Vy
-Dorje Radhan 
-Samson Gebrekdian
-Minahil 
-Phyo 
-Chanbin
-Ryan
+- Kiara
+- Ashley
+- Vy
+- Dorje Radhan 
+- Samson Gebrekdian
+- Minahil 
+- Phyo 
+- Chanbin
+- Ryan
 
 # Ideas:
 1) Leetcode flashcards
