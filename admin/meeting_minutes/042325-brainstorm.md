@@ -17,19 +17,19 @@
 
 # Ideas:
 1) Leetcode flashcards
-   a. Problem and then data structures/methods to solve the problem
+- Problem and then data structures/methods to solve the problem
 2) Github pull reqest cards
 3) Studying flashcards
-   a. Normal flashcards for subjects but online. Similar to quizlet 
+- Normal flashcards for subjects but online. Similar to quizlet 
 4) Studyplanner
-   a. List of tasks for a class
+- List of tasks for a class
 5) Motivational quotes cards
-   a. Get a random quote everyday
+- Get a random quote everyday
 6) Cookbook
-   a. Recipes on a card
-   b. Incorporating meal planners so you can drag cards onto a calendar
-   c. Shuffle cards and get a random recipe to cook if unsure on what to cook
-   d. User inputs ingredients they have and the app gives possible recipe ideas
+-  Recipes on a card
+-  Incorporating meal planners so you can drag cards onto a calendar
+-  Shuffle cards and get a random recipe to cook if unsure on what to cook
+-  User inputs ingredients they have and the app gives possible recipe ideas
 
 
 Steps to Take:
