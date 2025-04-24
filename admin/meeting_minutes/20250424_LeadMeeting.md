@@ -22,6 +22,10 @@ The below is a suggested roadmap to follow for our project brainstorming phase. 
 
 > Research -> finalize a domain -> do user personas (identify different users and their problems/expectations from this app) -> finalize a target audience (you don’t want to cater to all users - we don’t have so much time, so stick to one group of users) -> brainstorm on different features (no idea is a bad idea here) -> narrow down the features to a final, realistic feature stack -> wireframe/fat marker sketches
 
+- It's suggested to follow the "double diamond" pattern for planning: 
+  1) Start with research 
+  2) Develop maybe 4-5 user personas (what features they expect, what issues they have, etc) 
+  3) Take a look at all of the features we wrote down, then _narrow_ this list down to _achievable_ features. We obviously don't want too many in number given the time scope.
 - If we really want, we have the okay to do a game since we did pretty well on the warm-up (i.e. got the game working in 1 week).
 
 ## Questions, Concerns, Comments
