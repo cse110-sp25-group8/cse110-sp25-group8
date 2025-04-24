@@ -22,6 +22,8 @@ The below is a suggested roadmap to follow for our project brainstorming phase. 
 
 > Research -> finalize a domain -> do user personas (identify different users and their problems/expectations from this app) -> finalize a target audience (you don’t want to cater to all users - we don’t have so much time, so stick to one group of users) -> brainstorm on different features (no idea is a bad idea here) -> narrow down the features to a final, realistic feature stack -> wireframe/fat marker sketches
 
+- If we really want, we have the okay to do a game since we did pretty well on the warm-up (i.e. got the game working in 1 week).
+
 ## Questions, Concerns, Comments
 The following questions were answered by Rashi:
 | Type | Description | Response |
