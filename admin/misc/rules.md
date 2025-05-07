@@ -1,0 +1,21 @@
+# Team Ate
+- Team Purpose & Objective: Create a usable app while learning how to work in an group setting and industry-like environment.
+- Common values & standards: 
+  - Value: transparency and honesty about what we can and can't do and what we have and haven't done
+- Roles, responsibilities, and accountability:
+  - Roles:
+    - People will work on what they feel they want to try or feel strong in- roles are flexible. 
+  - Accountability:
+    - Weekly team meeting
+    - Stand-up meetings to check in on everyone's progress
+- Issue identification and conflict resolution:
+  - Issues identification: 
+    - Because we're flexible, there isn't really a well defined structure, which could lead to some issues. There may be uncertainty with individual responsibilities.
+  - Resolving conflicts
+    - Team vote to resolve conflicting ideas
+    - Stand up meetings to check on progress to see who has done what
+- What happens when a rule is not being followed?
+  - Check in on that person to see what's going on so we can adapt our plans from there.
+  - If it's a continuing problem, confront them to see why it happened and see if we can help not make it a habit. If it's a greater problem, then we escalate it to a TA.
+- Communication protocols and transparency:
+  - Let us know earlier (if possible) rather than later. Let us know if something comes up and you suddenly can't get something done or make it to a meeting.
