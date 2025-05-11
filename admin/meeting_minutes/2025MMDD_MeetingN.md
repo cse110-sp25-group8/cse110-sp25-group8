@@ -12,12 +12,12 @@
 - [ ] Chanbin Na
 - [ ] Dorje Pradhan
 - [ ] Kiara Singh
+- [ ] Kiet Dang
 - [ ] Minahil Yasar
-- [ ] Phyo Thant
+- [ ] Patrick Thant
 - [ ] Ryan Awal
 - [ ] Samson Gebrekidan
 - [ ] Shashwat Dudeja
-- [ ] Vy Dang
 
 ## Agenda
 | Discussion Item |
