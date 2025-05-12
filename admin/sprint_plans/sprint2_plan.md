@@ -11,6 +11,8 @@
   - For this week, maybe we do our sprint review meeting on Friday?
     - For Chanbin, before 6:00pm as I am going to Padres baseball game
 
+⚠️ **This is TENTATIVE.** Since our sprint planning meetings are on Monday, we might need to adjust plans based on what's due for our team this week.
+
 ## Tasks
 ### Overview
 | Task | Who |
