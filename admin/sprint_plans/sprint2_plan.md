@@ -22,39 +22,47 @@
 | [Add a Recipe page](#3-adding-a-recipe-page) | ... | 
 | [Shadow DOM for Cards](#4-shadow-dom-for-recipe-cards) | ... | 
 
-### (1) Main Page
+### (1) Main Page and Research
 - **Goal**: 
-  - This is the main page where we show the recipes.
+  - This is the main page where we show the recipes. Just focus 
 - **What**:
     - [ ] `index.html` (home page)
     - [ ] `index.css`
     - [ ] `index.js` (this can be blank for now)
+    - Research:
+      - Look into how we might implement a search for our recipes.
+      - Look into how to do the filters... should we have separate dropdowns or an all-in-one one?
     
 - **Assignee(s)**:
-  - 1:
-  - 2:
-  - 3: 
+  - 1: Samson
+  - 2: Dorje
+  - 3: Arlene
 
-### (2) View Recipe Page
+### (2) Adding a Recipe Page
 - **Goal**: 
   - The view recipe page should where clicking on a recipe card redirects.
 - **What**:
   - [ ] `detail.html` (view recipe information)
   - [ ] `detail.css`
   - [ ] `detail.js` (this can be blank for now)
+- **Assignee(s)**:
+  - 1: Mina
+  - 2: Kiet
+  - 3: Kiara
 
-### (3) Adding a Recipe Page
+### (3) View Recipe Page
 - **Goal**: 
-  - This is 
+  - T
 - **What**:
   - [ ] `adding.html` (page to create a recipe)
     - This has forms for user input. This does *not* need to be functioning.
   - [ ] `adding.css`
-  - [ ] `adding.js` (this can be balnk for now).
+  - [ ] `adding.js` (this can be blank for now).
+    - [ ] Time permitting, work on the timer... if time is short, just work on the HTML and CSS for it.
 - **Assignee(s)**:
-  - 1:
-  - 2:
-  - 3: 
+  - 1: Shash
+  - 2: Patrick
+  - 3: Ryan
 
 ### (4) Shadow DOM for Recipe Cards
 - **Goal**: 
