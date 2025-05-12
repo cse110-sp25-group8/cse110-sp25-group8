@@ -40,7 +40,7 @@
 
 ### (2) Adding a Recipe Page
 - **Goal**: 
-  - The view recipe page should where clicking on a recipe card redirects.
+  - This is for the user to implement their own recipe. Later, this should be stored as JSON.
 - **What**:
   - [ ] `detail.html` (view recipe information)
   - [ ] `detail.css`
@@ -52,7 +52,7 @@
 
 ### (3) View Recipe Page
 - **Goal**: 
-  - T
+  - The view recipe page should where clicking on a recipe card redirects.
 - **What**:
   - [ ] `adding.html` (page to create a recipe)
     - This has forms for user input. This does *not* need to be functioning.
