@@ -2,7 +2,7 @@
 ## About
 - Overarching Goal: Split teams to build the foundation for our website.
 - Date range: 05/12/2025 - 05/18/2025
-- Stand-up check-in planned for: MM/DD @ HH:MM A/PM
+- Stand-up check-in planned for: 05/16 @ 05:00 - 06:00 PM (please try to be around 70% done)
 
 ## Housekeeping
 - Review UI design together
