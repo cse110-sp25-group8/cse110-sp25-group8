@@ -9,7 +9,7 @@
 - Review file structure together
 - Decide on our daily stand-up methods
   - For this week, maybe we do our sprint review meeting on Friday?
-    - For Chanbin, before 6:00pm.
+    - For Chanbin, before 6:00pm as I am going to Padres baseball game
 
 ## Tasks
 ### Overview
