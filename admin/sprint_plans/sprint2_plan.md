@@ -1,6 +1,6 @@
 # Sprint #2 Plan
 ## About
-- Overarching Goal: Split teams to build the foundation for our website. Functionality is not important right now.
+- Overarching Goal: Split teams to build the foundation for our website. Functionality is not important right now. Everyone is working on split files for now for modularity, but we do have plans to refactor as needed.
 - Date range: 05/12/2025 - 05/18/2025
 - Stand-up check-in planned for: 05/16 @ 5:00 - 6:00 PM via Zoom. Your teams don't need to be 100% done, but please try to be around 70% of the way there.
   - Daily stand-ups will be asynchronous as usual... expect them to be daily for this week (5/12 - 5/18) as we're expecting a stand-up related team assignment due this week. We'll probably send out a stand-up message in the evenings so people have time earlier in the day to work.
