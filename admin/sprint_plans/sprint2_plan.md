@@ -64,3 +64,23 @@
 - **Assignee(s)**:
   - 1: Ashley?
   - 2: Chanbin?
+ 
+### Plan for the structure
+```
+final-project/
+-- index.html
+-- detail.html
+-- adding.html
+-- css/
+   --- index.css
+   --- detail.css
+   --- adding.css
+-- scripts/
+   --- index.js
+   --- detail.js
+   --- adding.js
+-- data/
+   --- items.json
+-- assets/
+   --- images/
+```
