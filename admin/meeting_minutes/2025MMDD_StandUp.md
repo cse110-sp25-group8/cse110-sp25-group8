@@ -1,4 +1,4 @@
-# Meeting Minutes
+# Stand Up
 ## Meeting Information
 - **Meeting Date/Time:** MM DD, 2025 (Asynchronous)
 - **Meeting Location:** Slack
