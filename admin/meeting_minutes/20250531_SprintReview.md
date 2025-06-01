@@ -42,6 +42,10 @@ Rashi left us comments on our last sprint and information for the coming and las
 - `.DS_Store` shouldn't be in the repo-- add it to `.gitignore`.
 - Link documents to our project README.
 
+### Upcoming Stuff
+- Last day to push code is **June 8** (code freeze until 6/12, our CSE110 final day)
+- Project video should be done between then + any last minute logistical clean ups.
+
 ## Sprint Review
 | Team | Who | 
 | ---- | ---- |
